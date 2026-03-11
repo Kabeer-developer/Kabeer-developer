@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Full Stack MERN Developer | 💻 Pre-final year CS student @ CMR University | 🔨 Building SaaS platforms, e-commerce solutions & community apps | 📊 20+ projects | 🎯 Open to internship opportunities
+🚀 Full Stack MERN Developer | 💻 Pre-final year CS student @ CMR University | 🔨 Building SaaS platforms, e-commerce solutions & community apps | 📊 20+ projects | 🎯 Open to internship opportunities |
 PORTFOLIO LINK 🔗 https://my-portfolio-tau-ecru-44.vercel.app/ 
 
 ## 🌐 Socials:
