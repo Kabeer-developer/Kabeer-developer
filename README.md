@@ -90,7 +90,7 @@ My experience spans SaaS platforms, e-commerce systems, and real-time community 
 | **Auth** | JWT Authentication + Role-Based Access Control (Admin / Store Owner) |
 | **Features** | QR-based ordering · Cloudinary image uploads · Admin dashboard · Order analytics |
 | **Deployment** | Vercel (frontend) · Render (backend) · MongoDB Atlas |
-| **Links** | [GitHub](https://github.com/Kabeer-developer) · [Live Demo](#) |
+| **Links** | [GitHub](https://github.com/Kabeer-developer/scan_2_print) · [Live Demo](https://scan2print-frontend.vercel.app/) |
 
 A SaaS platform that allows store owners to create a digital storefront accessible via a unique QR code. Customers scan to browse and order; admins manage stores, track orders, and view analytics from a central dashboard.
 
@@ -106,7 +106,7 @@ A SaaS platform that allows store owners to create a digital storefront accessib
 | **Stack** | React.js · Node.js · Express.js · MongoDB · Socket.io · Redux Toolkit |
 | **Real-Time** | Socket.io live chat between matched users |
 | **Features** | Credit-based barter system · Skill matching · Session scheduling · Admin moderation |
-| **Links** | [GitHub](https://github.com/Kabeer-developer) · [Live Demo](#) |
+| **Links** | [GitHub](https://github.com/Kabeer-developer/SkillSwap) · [Live Demo](https://skillswap-frontend-rho.vercel.app/) |
 
 A community platform where users exchange skills using a credit-based system. Includes a matching engine, real-time chat, barter request workflows, and an admin panel for user management and activity monitoring.
 
@@ -122,7 +122,7 @@ A community platform where users exchange skills using a credit-based system. In
 | **Stack** | React.js · Node.js · Express.js · MongoDB · JWT · Tailwind CSS |
 | **Architecture** | MVC · RESTful APIs for products, users, and orders |
 | **Features** | Authentication · Cart management · Protected routes · Admin dashboard |
-| **Links** | [GitHub](https://github.com/Kabeer-developer) · [Live Demo](#) |
+| **Links** | [GitHub](https://github.com/Kabeer-developer/ShopSmart) · [Live Demo](https://shopsmart-frontend-2xju.vercel.app/) |
 
 A complete e-commerce application with user authentication, product catalogue, shopping cart, and an admin panel for inventory and order management. Built with MVC architecture and a fully responsive UI.
 
