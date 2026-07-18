@@ -175,7 +175,7 @@ A complete e-commerce application with user authentication, product catalogue, s
 
 <div align="center">
 
-<img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Kabeer-developer&theme=flat&no-frame=true&margin-w=12&row=2&column=4" width="100%"/>
+<img alt="GitHub Trophies" src="https://github-profile-trophy-fork-two.vercel.app/?username=Kabeer-developer&theme=flat&no-frame=true&margin-w=12&row=2&column=4" width="100%"/>
 
 </div>
 
@@ -185,7 +185,11 @@ A complete e-commerce application with user authentication, product catalogue, s
 
 <div align="center">
 
-<img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Kabeer-developer&theme=minimal&hide_border=true&area=true" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Kabeer-developer&theme=tokyo-night&hide_border=true&area=true"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Kabeer-developer&theme=minimal&hide_border=true&area=true"/>
+  <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Kabeer-developer&theme=minimal&hide_border=true&area=true" width="100%"/>
+</picture>
 
 </div>
 
