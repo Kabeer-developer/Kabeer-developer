@@ -1,12 +1,8 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&text=&animation=fadeIn"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,50:8B5CF6,100:7C3AED&height=140&section=header&text=&animation=fadeIn"/>
-  <img alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&text=&animation=fadeIn" width="100%"/>
-</picture>
+<img alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:9333EA,100:6366F1&height=140&section=header&text=&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=2800&pause=1200&color=7C3AED&center=true&vCenter=true&width=960&lines=Kabeer+A;Full+Stack+MERN+Developer;Software+Developer+Intern+Seeker" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=1200&color=7C3AED&center=true&vCenter=true&width=960&lines=Kabeer+A;Full+Stack+MERN+Developer;Software+Developer+Intern+Seeker" alt="Typing SVG" />
 
 <br/>
 
@@ -94,7 +90,7 @@ My experience spans SaaS platforms, e-commerce systems, and real-time community 
 | **Auth** | JWT Authentication + Role-Based Access Control (Admin / Store Owner) |
 | **Features** | QR-based ordering · Cloudinary image uploads · Admin dashboard · Order analytics |
 | **Deployment** | Vercel (frontend) · Render (backend) · MongoDB Atlas |
-| **Links** | [GitHub](https://github.com/Kabeer-developer) · [Live Demo](#) |
+| **Links** | [GitHub](https://github.com/Kabeer-developer/scan_2_print) · [Live Demo](https://scan2print-frontend.vercel.app/) |
 
 A SaaS platform that allows store owners to create a digital storefront accessible via a unique QR code. Customers scan to browse and order; admins manage stores, track orders, and view analytics from a central dashboard.
 
@@ -110,7 +106,7 @@ A SaaS platform that allows store owners to create a digital storefront accessib
 | **Stack** | React.js · Node.js · Express.js · MongoDB · Socket.io · Redux Toolkit |
 | **Real-Time** | Socket.io live chat between matched users |
 | **Features** | Credit-based barter system · Skill matching · Session scheduling · Admin moderation |
-| **Links** | [GitHub](https://github.com/Kabeer-developer) · [Live Demo](#) |
+| **Links** | [GitHub](https://github.com/Kabeer-developer/SkillSwap) · [Live Demo](https://skillswap-frontend-rho.vercel.app/) |
 
 A community platform where users exchange skills using a credit-based system. Includes a matching engine, real-time chat, barter request workflows, and an admin panel for user management and activity monitoring.
 
@@ -126,7 +122,7 @@ A community platform where users exchange skills using a credit-based system. In
 | **Stack** | React.js · Node.js · Express.js · MongoDB · JWT · Tailwind CSS |
 | **Architecture** | MVC · RESTful APIs for products, users, and orders |
 | **Features** | Authentication · Cart management · Protected routes · Admin dashboard |
-| **Links** | [GitHub](https://github.com/Kabeer-developer) · [Live Demo](#) |
+| **Links** | [GitHub](https://github.com/Kabeer-developer/ShopSmart) · [Live Demo](https://shopsmart-frontend-2xju.vercel.app/) |
 
 A complete e-commerce application with user authentication, product catalogue, shopping cart, and an admin panel for inventory and order management. Built with MVC architecture and a fully responsive UI.
 
@@ -163,13 +159,13 @@ A complete e-commerce application with user authentication, product catalogue, s
 
 <div align="center">
 
-<img height="175" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kabeer-developer&show_icons=true&theme=default&border_radius=10&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"/>
+<img height="175" alt="GitHub Stats" src="https://helio-github-stats.vercel.app/api?username=Kabeer-developer&show_icons=true&theme=default&border_radius=10&hide_border=true&count_private=true"/>
 &nbsp;
-<img height="175" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=Kabeer-developer&theme=default&border_radius=10&hide_border=true"/>
+<img height="175" alt="GitHub Streak" src="https://github-streak-stats-ruby.vercel.app/?user=Kabeer-developer&theme=default&border_radius=10&hide_border=true"/>
 
 <br/><br/>
 
-<img height="175" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kabeer-developer&layout=compact&theme=default&border_radius=10&langs_count=8&hide_border=true&cache_seconds=1800"/>
+<img height="175" alt="Top Languages" src="https://helio-github-stats.vercel.app/api/top-langs/?username=Kabeer-developer&layout=compact&theme=default&border_radius=10&langs_count=8&hide_border=true"/>
 
 </div>
 
@@ -227,10 +223,6 @@ A complete e-commerce application with user authentication, product catalogue, s
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:8B5CF6,100:A78BFA&height=120&section=footer"/>
-  <img alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
-</picture>
+<img alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:9333EA,100:7C3AED&height=120&section=footer" width="100%"/>
 
 </div>
