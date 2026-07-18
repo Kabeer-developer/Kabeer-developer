@@ -163,25 +163,13 @@ A complete e-commerce application with user authentication, product catalogue, s
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Kabeer-developer&show_icons=true&theme=tokyonight&border_radius=10&include_all_commits=true&count_private=true"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Kabeer-developer&show_icons=true&theme=default&border_radius=10&include_all_commits=true&count_private=true"/>
-  <img height="175" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kabeer-developer&show_icons=true&theme=default&border_radius=10&include_all_commits=true&count_private=true"/>
-</picture>
+<img height="175" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kabeer-developer&show_icons=true&theme=default&border_radius=10&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"/>
 &nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Kabeer-developer&theme=tokyonight&border_radius=10"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Kabeer-developer&theme=default&border_radius=10"/>
-  <img height="175" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Kabeer-developer&theme=default&border_radius=10"/>
-</picture>
+<img height="175" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=Kabeer-developer&theme=default&border_radius=10&hide_border=true"/>
 
 <br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Kabeer-developer&layout=compact&theme=tokyonight&border_radius=10&langs_count=8"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Kabeer-developer&layout=compact&theme=default&border_radius=10&langs_count=8"/>
-  <img height="175" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kabeer-developer&layout=compact&theme=default&border_radius=10&langs_count=8"/>
-</picture>
+<img height="175" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kabeer-developer&layout=compact&theme=default&border_radius=10&langs_count=8&hide_border=true&cache_seconds=1800"/>
 
 </div>
 
@@ -191,11 +179,7 @@ A complete e-commerce application with user authentication, product catalogue, s
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Kabeer-developer&theme=tokyonight&no-frame=true&margin-w=12&row=2&column=4"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Kabeer-developer&theme=flat&no-frame=true&margin-w=12&row=2&column=4"/>
-  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Kabeer-developer&theme=flat&no-frame=true&margin-w=12&row=2&column=4" width="100%"/>
-</picture>
+<img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Kabeer-developer&theme=flat&no-frame=true&margin-w=12&row=2&column=4" width="100%"/>
 
 </div>
 
@@ -205,11 +189,7 @@ A complete e-commerce application with user authentication, product catalogue, s
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Kabeer-developer&theme=tokyo-night&hide_border=true&area=true"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Kabeer-developer&theme=minimal&hide_border=true&area=true"/>
-  <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Kabeer-developer&theme=minimal&hide_border=true&area=true" width="100%"/>
-</picture>
+<img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Kabeer-developer&theme=minimal&hide_border=true&area=true" width="100%"/>
 
 </div>
 
